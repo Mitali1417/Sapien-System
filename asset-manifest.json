@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sapien-System/static/css/main.e3ae4450.css",
+    "main.js": "/Sapien-System/static/js/main.951ffe48.js",
+    "index.html": "/Sapien-System/index.html",
+    "main.e3ae4450.css.map": "/Sapien-System/static/css/main.e3ae4450.css.map",
+    "main.951ffe48.js.map": "/Sapien-System/static/js/main.951ffe48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ae4450.css",
+    "static/js/main.951ffe48.js"
+  ]
+}
